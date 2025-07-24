@@ -1,3 +1,0 @@
-asset credits
-
-spes.gif is ripped from this dmi. https://github.com/tgstation/tgstation/blob/master/icons/turf/space.dmi
