@@ -15,11 +15,11 @@ Programming
 - [**Python**](https://www.python.org)
 - [**GDevelop**](https://gdevelop.io)
 - [**Dream Maker**](https://www.byond.com/docs/guide/chap01.html)
-- [*Learning* **C++**](https://cplusplus.com) & [Holmesglen TAFE](https://www.holmesglen.edu.au)
+- [*Amateur* (*Learning*) **C++**](https://cplusplus.com)
 - [*Dabbling* **HTML**](https://en.wikipedia.org/wiki/HTML)
 - [*Dabbling* **CSS**](https://en.wikipedia.org/wiki/CSS)
 
 Creative
 ---
 - [*Dabbling* **Voice Actor**](https://tiberianerin.github.io/TiberianErin/VA)
-- [*Dabbling* **Texture Artist**](https://sketchfab.com/erinmorrison/).
+- [*Dabbling* **3D Artist**](https://sketchfab.com/erinmorrison/).
