@@ -1,4 +1,4 @@
-[**See website...**](https://tiberianerin.github.io/TiberianErin/)
+my current profile picture is made by [stekinox](https://x.com/stekinox?lang=en), go check him out!
 
 ### Hi!
 My name is Erin! Lovely to meet you.
