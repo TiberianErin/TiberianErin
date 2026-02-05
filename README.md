@@ -23,5 +23,6 @@ Programming
 
 Creative
 ---
+- [**2D Artist**](
 - [*Dabbling* **Voice Actor**](https://tiberianerin.github.io/TiberianErin/VA)
 - [*Dabbling* **3D Artist**](https://sketchfab.com/erinmorrison/).
