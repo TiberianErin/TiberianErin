@@ -6,7 +6,7 @@ I've professionally studied computer science for about 2 years now, and I've lea
 
 Qualifications
 ---
-**- Diploma of Information Technology (Cybersecurity)** *(work in progress)*
+- **Diploma of Information Technology (Cybersecurity)** *(work in progress)*
 - Certificate 4 in Information Technology (Cybersecurity)
 - Certificate 4 in Information Technology (Game Design)
 - Certificate 3 in Information Technology
