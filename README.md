@@ -6,13 +6,15 @@ I've professionally studied computer science for about 2 years now, and I've lea
 
 Qualifications
 ---
-- Certificate 4 in Information Technology (Game Design) \***IN PROGRESS**
+**- Diploma of Information Technology (Cybersecurity)** *(work in progress)*
 - Certificate 4 in Information Technology (Cybersecurity)
+- Certificate 4 in Information Technology (Game Design)
 - Certificate 3 in Information Technology
 
 Programming
 ---
 - [**Unity**](https://unity.com)
+- [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [**Python**](https://www.python.org)
 - [**Dream Maker**](https://www.byond.com/docs/guide/chap01.html)
 - [**GDevelop**](https://gdevelop.io)
