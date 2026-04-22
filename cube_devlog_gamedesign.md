@@ -72,7 +72,7 @@ My game... is **White and Black.**
 
 Gasp.
 
-This means, specifically, that the sky around is bright, whilst objects and UI elements are dark in appearance. Light is dark too, because if you haven't noticed, because the colors are inverted, the original appearance of everything before shaders looks a lot more like this:
+This means, specifically, that the sky around is bright, whilst objects and UI elements are dark in appearance. Light is dark too, because if you haven't noticed, the colors are inverted, so the original appearance of everything before shaders looks a lot more like this:
 
 More specifically, my game is Light Mauve and Crater Brown.
 
